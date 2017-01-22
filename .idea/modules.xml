@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BroadcastReceiverDemo.iml" filepath="$PROJECT_DIR$/BroadcastReceiverDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastbestpractice/broadcastbestpractice.iml" filepath="$PROJECT_DIR$/broadcastbestpractice/broadcastbestpractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastdemo1/broadcastdemo1.iml" filepath="$PROJECT_DIR$/broadcastdemo1/broadcastdemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastdemo2/broadcastdemo2.iml" filepath="$PROJECT_DIR$/broadcastdemo2/broadcastdemo2.iml" />
+    </modules>
+  </component>
+</project>
